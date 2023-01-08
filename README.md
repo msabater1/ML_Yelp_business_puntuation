@@ -8,12 +8,26 @@
     
 <p style="text-align:left">Mario Sabater Pascual - <font color='orange'>mario.sabater@cunef.edu </font>
 
+![Highway](https://www.restaurant-hospitality.com/sites/restaurant-hospitality.com/files/styles/article_featured_retina/public/uploads/2013/07/yelplogopromo.jpg?itok=OM0azJTj)
+
 **Yelp_Dataset:**
 https://www.yelp.com/dataset
 
 The objective of this practice is to visualize the Yelp Data set in order to originate a business idea or objective to make a prediction.
 
 **Our question to answer in this case is to predict whether a restaurant will get a 4-star review or higher.**
+
+## 0. Data Reading and Problem statement.ipynb content
+
+ - Libraries import
+ - Functions used in this notebook
+ - First glance at the data
+ 	- Business
+ 	- Checkin
+ 	- Review
+ 	- Tip
+ 	- User
+ - Problem statement
 
 ## 1. Data selection & variables preparation.ypnb content
 
